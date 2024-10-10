@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-# New-repository 2.2
+ New-repository 2.2
 
